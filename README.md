@@ -25,8 +25,8 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/abdulrhman-rashwan-8ab49120b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarelsherif010" height="30" width="40" /></a>
-<a href="https://fb.com/omarelsherifpage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarelsherifpage" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCSbQpX2FwjmiG_3znl5UodA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omar elsherif" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100003936671331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarelsherifpage" height="30" width="40" /></a>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
