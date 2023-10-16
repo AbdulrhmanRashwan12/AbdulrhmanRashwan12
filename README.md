@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdulrhman Rashwan</h1>
 <h3 align="center">A Mobile APP Developer By Kotlin</h3>
- <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20App%20developer;Wait%20for%20more%20projects&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&size=24"></a>
+<p align="center">
+ <a align="right" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20App%20developer;Wait%20for%20more%20projects&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&size=24"></a>
+</p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulrhmanRashwan12&label=Profile%20views&color=0e75b6&style=flat" alt="omarelsherif010" /> </p>
 
