@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulrhman Rashwan</h1>
 <h3 align="center">A Mobile APP Developer By Kotlin</h3>
+ <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20App%20developer;Wait%20for%20more%20projects&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&size=24"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulrhmanRashwan12&label=Profile%20views&color=0e75b6&style=flat" alt="omarelsherif010" /> </p>
 
@@ -9,17 +10,14 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
 
-- 🔭 I’m currently working on **PandasAI Library**
+- 🔭 I’m currently **Student at Faculty of Computer and Artificial Intelligence**
 
-- 🌱 I’m currently learning **LLMs and AWS**
+- 🌱 I’m currently learning **Mobile Development by Native Kotlin**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me **omarelsherif010@gmail.com**
+- 📫 How to reach me **abdelrhmanrashwan1@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kbjtSYr9VGW5TiaUtpvCzCluo-D0ROUE/view?usp=sharing)
-
-- ⚡ Fun fact **I love skating⛸️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,9 +32,9 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarelsherif010&show_icons=true&locale=en&layout=compact" alt="omarelsherif010" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarelsherif010&show_icons=true&locale=en&&layout=compact" alt="omarelsherif010" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulrhmanRashwan12&show_icons=true&locale=en&&layout=compact" alt="omarelsherif010" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarelsherif010&" alt="omarelsherif010" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrhmanRashwan12&" alt="omarelsherif010" /></p> 
 
 
 
