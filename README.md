@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulrhmanRashwan12&label=Profile%20views&color=0e75b6&style=flat" alt="omarelsherif010" /> </p>
 
-<p align="left"> <a href="https://twitter.com/omarelsherif010" target="blank"><img src="https://img.shields.io/twitter/follow/omarelsherif010?logo=twitter&style=for-the-badge" alt="omarelsherif010" /></a> </p>
+
 
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/omarelsherif010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omarelsherif010" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omarelsherif010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarelsherif010" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/abdulrhman-rashwan-8ab49120b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarelsherif010" height="30" width="40" /></a>
 <a href="https://fb.com/omarelsherifpage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarelsherifpage" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCSbQpX2FwjmiG_3znl5UodA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omar elsherif" height="30" width="40" /></a>
 </p>
