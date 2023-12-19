@@ -45,7 +45,7 @@
   <br/>
 </a>
 
-!Abdulrhman's Activity Graph
+![Abdulrhman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdulrhmanRashwan12&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
   
 </a>
 <br/>
